@@ -46,9 +46,13 @@ RAG Integration
 To evaluate the quality of the application, consider the following methods:
 
 A) Response Accuracy: Test the AI's responses for accuracy by comparing them with known information in the PDFs.
+
 B) Handling of Follow-up Questions: Assess the AI’s ability to maintain context across multiple interactions.
+
 C) User Experience: Gather user feedback on the ease of use and overall experience with the system.
+
 D) Latency: Measure the time taken for responses to ensure the system operates within acceptable performance limits.
+
 
 ## Demo Video
 
