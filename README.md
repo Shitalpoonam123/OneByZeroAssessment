@@ -56,6 +56,5 @@ D) Latency: Measure the time taken for responses to ensure the system operates w
 
 ## Demo Video
 
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
-(https://www.youtube.com/watch?v=VIDEO_ID)
+
 
