@@ -6,7 +6,7 @@ answering questions about yourself. The system should handle inquiries in Englis
 and manage follow-up questions effectively.
 
 ## Files added
-htmlTemplates.py: A file containing HTML templates and CSS used for styling the chat interface.
+### htmlTemplates.py: A file containing HTML templates and CSS used for styling the chat interface.
 
 .env: An environment file with placeholders for sensitive data (e.g., API keys).
 
